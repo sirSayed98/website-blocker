@@ -1,0 +1,11 @@
+#
+127.0.0.1 localhost
+::1 localhost
+
+## Local by Flywheel - Start ##
+192.168.95.100 fictional-college.local #Local Site
+192.168.95.100 www.fictional-college.local #Local Site
+## Local by Flywheel - End ##
+
+
+
